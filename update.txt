@@ -1,0 +1,13 @@
+1.0.0:
++Battle System
++Menu
+1.1.0:
+*Nerfed Potion
+*Nerfed Player and Enemies' damage
+-Enemy won't attack back if the Player kills the enemy first
+-Enemy can now attack if you either heal or failed to run during battle
++Added critical and missing attacks
++Added chance of being poisoned in potion
++Added final boss
++Added secret boss
++Added a story of some sort
