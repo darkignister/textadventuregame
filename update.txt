@@ -1,9 +1,10 @@
 1.0.0:
 +Battle System
 +Menu
+
 1.1.0:
-*Nerfed Potion
 *Nerfed Player and Enemies' damage
+-Potion heals by rng from 15-50
 -Enemy won't attack back if the Player kills the enemy first
 -Enemy can now attack if you either heal or failed to run during battle
 +Added critical and missing attacks
