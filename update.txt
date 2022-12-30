@@ -17,3 +17,10 @@
 *Bug Fixes
 *Intro dialogue changes
 -You can only use up to 3 potions per floor
+
+1.2.0:
+*Added Player Name
+*Added a difficulty system
+*Added a debug system 
+-Nerfed/Buffed things depending on difficulty
+*Bug Fixes
