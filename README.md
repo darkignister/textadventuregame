@@ -11,6 +11,6 @@ Things I would like to implement for now:
 - [ ] Element Type
 - [ ] Skill List
 - [ ] Battle System 2.0
-- [ ] Menu Screen
-- [ ] Difficulty Level
+- [x] Menu Screen
+- [x] Difficulty Level
 - [ ] Level System
