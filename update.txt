@@ -12,3 +12,8 @@
 +Added final boss
 +Added secret boss
 +Added a story of some sort
+
+1.1.1:
+*Bug Fixes
+*Intro dialogue changes
+-You can only use up to 3 potions per floor
